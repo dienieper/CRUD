@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">
-    <img alt="Projeto" src="./images/CRUD.png" width="400" heigth="816" />
+    <img alt="Projeto" src="CRUD.png" width="400" heigth="816" />
 </h1>
 
 ## :computer: Tecnologias utilizadas:
